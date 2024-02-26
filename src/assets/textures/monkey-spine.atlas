@@ -1,0 +1,41 @@
+
+monkey-spine.png
+size: 217, 170
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye-close-l
+  rotate: false
+  xy: 174, 127
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+eye-close-r
+  rotate: false
+  xy: 174, 84
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+face
+  rotate: true
+  xy: 2, 2
+  size: 166, 170
+  orig: 166, 170
+  offset: 0, 0
+  index: -1
+pupil-right
+  rotate: false
+  xy: 174, 56
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1
+upil-left
+  rotate: false
+  xy: 174, 28
+  size: 26, 26
+  orig: 28, 28
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+hawk-spine.png
+size: 77, 142
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye-close
+  rotate: true
+  xy: 32, 100
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+eye-l
+  rotate: false
+  xy: 55, 100
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eye-open
+  rotate: false
+  xy: 2, 84
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+left-brow
+  rotate: false
+  xy: 44, 122
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+lower-beak
+  rotate: false
+  xy: 2, 126
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+right-brow
+  rotate: false
+  xy: 2, 106
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+upper-beak
+  rotate: false
+  xy: 24, 63
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "chips.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 883,
+				"h": 104
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "chip-5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 102
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 97,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 100,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 198,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-100.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 296,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-1000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 394,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 492,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-20.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 590,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 688,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				},
+				{
+					"filename": "chip-500.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 102
+					},
+					"frame": {
+						"x": 786,
+						"y": 1,
+						"w": 96,
+						"h": 102
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a8dfd3f70e51fcd7fb7395fa6996628c:ad5628ac9ddf5df19ed75e0570be694a:7c132c7df1ade067e9f5c2fbb3ad405a$"
+	}
+}

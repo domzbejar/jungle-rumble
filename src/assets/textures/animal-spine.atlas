@@ -1,0 +1,139 @@
+
+animal-spine.png
+size: 279, 363
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+panda/eye-left-close
+  rotate: true
+  xy: 241, 249
+  size: 46, 36
+  orig: 48, 38
+  offset: 1, 1
+  index: -1
+panda/eye-right-close
+  rotate: true
+  xy: 240, 201
+  size: 46, 36
+  orig: 48, 38
+  offset: 1, 1
+  index: -1
+panda/head
+  rotate: false
+  xy: 2, 210
+  size: 163, 151
+  orig: 165, 153
+  offset: 1, 1
+  index: -1
+panda/left-ear
+  rotate: true
+  xy: 163, 95
+  size: 44, 59
+  orig: 46, 61
+  offset: 1, 1
+  index: -1
+panda/mouth
+  rotate: true
+  xy: 236, 79
+  size: 66, 40
+  orig: 68, 41
+  offset: 1, 1
+  index: -1
+panda/nose
+  rotate: false
+  xy: 167, 259
+  size: 72, 54
+  orig: 74, 56
+  offset: 1, 1
+  index: -1
+panda/pupil-left
+  rotate: false
+  xy: 242, 330
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+panda/pupil-right
+  rotate: false
+  xy: 242, 297
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+panda/right-ear
+  rotate: true
+  xy: 146, 49
+  size: 44, 59
+  orig: 46, 61
+  offset: 1, 1
+  index: -1
+rabbit/cheek
+  rotate: false
+  xy: 2, 138
+  size: 159, 70
+  orig: 161, 72
+  offset: 1, 1
+  index: -1
+rabbit/eye-left-close
+  rotate: false
+  xy: 207, 4
+  size: 48, 45
+  orig: 50, 47
+  offset: 1, 1
+  index: -1
+rabbit/eye-right-close
+  rotate: false
+  xy: 146, 2
+  size: 48, 45
+  orig: 50, 47
+  offset: 1, 1
+  index: -1
+rabbit/head
+  rotate: false
+  xy: 2, 4
+  size: 142, 132
+  orig: 144, 134
+  offset: 1, 1
+  index: -1
+rabbit/left-ear
+  rotate: false
+  xy: 167, 200
+  size: 71, 57
+  orig: 73, 59
+  offset: 1, 1
+  index: -1
+rabbit/mouth
+  rotate: true
+  xy: 240, 147
+  size: 52, 30
+  orig: 54, 32
+  offset: 1, 1
+  index: -1
+rabbit/nose
+  rotate: false
+  xy: 167, 315
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+rabbit/pupil-left
+  rotate: true
+  xy: 207, 65
+  size: 28, 26
+  orig: 30, 29
+  offset: 1, 2
+  index: -1
+rabbit/pupil-right
+  rotate: false
+  xy: 235, 51
+  size: 28, 26
+  orig: 30, 29
+  offset: 1, 2
+  index: -1
+rabbit/right-ear
+  rotate: false
+  xy: 163, 141
+  size: 71, 57
+  orig: 73, 59
+  offset: 1, 1
+  index: -1

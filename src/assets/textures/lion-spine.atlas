@@ -1,0 +1,69 @@
+
+lion-spine.png
+size: 74, 179
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bangs
+  rotate: true
+  xy: 57, 163
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+eyelid-left
+  rotate: false
+  xy: 2, 154
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+eyelid-right
+  rotate: false
+  xy: 24, 149
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 84
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 171
+  size: 27, 6
+  orig: 27, 6
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 46, 143
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+pupil-left
+  rotate: false
+  xy: 31, 166
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+pupil-right
+  rotate: false
+  xy: 44, 166
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

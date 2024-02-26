@@ -1,0 +1,62 @@
+
+egg-spine.png
+size: 149, 127
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+egg
+  rotate: false
+  xy: 2, 3
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+egg-base
+  rotate: false
+  xy: 58, 36
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+egg1
+  rotate: false
+  xy: 116, 67
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+egg2
+  rotate: false
+  xy: 116, 85
+  size: 31, 40
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+egg3
+  rotate: false
+  xy: 93, 2
+  size: 29, 32
+  orig: 30, 32
+  offset: 1, 0
+  index: -1
+egg4
+  rotate: false
+  xy: 114, 38
+  size: 24, 27
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+egg5
+  rotate: false
+  xy: 58, 4
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 75
+  size: 112, 50
+  orig: 114, 52
+  offset: 1, 1
+  index: -1

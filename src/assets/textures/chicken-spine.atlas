@@ -1,0 +1,90 @@
+
+chicken-spine.png
+size: 246, 260
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+beak-lower
+  rotate: true
+  xy: 141, 106
+  size: 60, 41
+  orig: 62, 43
+  offset: 1, 1
+  index: -1
+beak-up
+  rotate: false
+  xy: 2, 6
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 2, 168
+  size: 170, 90
+  orig: 170, 90
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 174, 179
+  size: 51, 79
+  orig: 53, 81
+  offset: 1, 1
+  index: -1
+eye-close-left
+  rotate: false
+  xy: 141, 59
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+eye-close-right
+  rotate: false
+  xy: 188, 75
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+eye-left
+  rotate: false
+  xy: 127, 2
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+eye-right
+  rotate: false
+  xy: 184, 122
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 59
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 68, 2
+  size: 55, 57
+  orig: 57, 59
+  offset: 1, 1
+  index: -1
+pupil-left
+  rotate: false
+  xy: 188, 46
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+pupil-right
+  rotate: false
+  xy: 217, 46
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1

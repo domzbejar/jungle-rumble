@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "animals.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 266,
+				"h": 266
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lion.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 81,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 81,
+						"h": 70
+					}
+				},
+				{
+					"filename": "golden.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 12,
+						"w": 78,
+						"h": 71
+					},
+					"frame": {
+						"x": 84,
+						"y": 1,
+						"w": 78,
+						"h": 71
+					}
+				},
+				{
+					"filename": "ostrich.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 73,
+						"h": 73
+					},
+					"frame": {
+						"x": 1,
+						"y": 73,
+						"w": 73,
+						"h": 73
+					}
+				},
+				{
+					"filename": "owl.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 18,
+						"w": 71,
+						"h": 59
+					},
+					"frame": {
+						"x": 164,
+						"y": 1,
+						"w": 71,
+						"h": 59
+					}
+				},
+				{
+					"filename": "shark.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 16,
+						"w": 70,
+						"h": 62
+					},
+					"frame": {
+						"x": 164,
+						"y": 62,
+						"w": 70,
+						"h": 62
+					}
+				},
+				{
+					"filename": "chicken.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 69,
+						"h": 78
+					},
+					"frame": {
+						"x": 76,
+						"y": 74,
+						"w": 69,
+						"h": 78
+					}
+				},
+				{
+					"filename": "hawk.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 68,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 148,
+						"w": 68,
+						"h": 72
+					}
+				},
+				{
+					"filename": "egg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 70
+					},
+					"frame": {
+						"x": 71,
+						"y": 154,
+						"w": 54,
+						"h": 70
+					}
+				},
+				{
+					"filename": "monkey.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 13,
+						"w": 68,
+						"h": 69
+					},
+					"frame": {
+						"x": 127,
+						"y": 154,
+						"w": 68,
+						"h": 69
+					}
+				},
+				{
+					"filename": "panda.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 15,
+						"w": 68,
+						"h": 65
+					},
+					"frame": {
+						"x": 197,
+						"y": 126,
+						"w": 68,
+						"h": 65
+					}
+				},
+				{
+					"filename": "rabbit.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 14,
+						"w": 66,
+						"h": 67
+					},
+					"frame": {
+						"x": 197,
+						"y": 193,
+						"w": 66,
+						"h": 67
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7a96dc3b0f665ae2fa1363df52dde7f1:46ce38db43e86e720b05a08369b22f0a:b00d48b51f56eb7c81e25100fcce2828$"
+	}
+}
